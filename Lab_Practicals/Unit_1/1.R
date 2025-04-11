@@ -1,0 +1,16 @@
+a<-9
+a
+b<-6
+b
+sum<-a+b
+sum
+diff<-a-b
+diff
+square<-a^2
+square
+root<-sqrt(b)
+root
+expo<-exp(a)
+expo
+logarithmic<-log(a,2)
+logarithmic
